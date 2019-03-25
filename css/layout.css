@@ -31,15 +31,15 @@
 }
 #col-1 {
   float:left;
-  width: 31%;
+  width: 28%;
 }
 #col-2 {
   float:left;
-  width: 31%;
+  width: 28%;
 }
 #col-3 {
   float:left;
-  width: 31%;
+  width: 28%;
 }
 [class*="col-"] {
   margin-left: 2%;
